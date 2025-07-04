@@ -25,41 +25,11 @@ I've already been able to take engineering courses on this subject during my tra
 
 # 🛠️ My technical skills
 
-| Syntax | Tools |
-| ----------- | ----------- |
-| Languages | Python <img src="https://skillicons.dev/icons?i=python" width="20"/> |
-| Paragraph | Text |
-Category	Tools
-Languages	Python Dart TypeScript C
-Web & Mobile Development	Flutter Streamlit Dash
-Data Science & Web Scraping	Pandas scikit-learn SQL Selenium BeautifulSoup
-Cloud & DevOps	AWS DynamoDB S3 Docker Git
-[![Langages & Tech](https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,python&perline=7&theme=light)](https://skillicons.dev)
+| **Category**         | **Tools**                                                                                     |
+|----------------------|------------------------------------------------------------------------------------------------|
+| **Languages**        | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) |
+| **Machine Learning & Data analysis**  | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)|
+| **Other tools**    | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Pygame](https://img.shields.io/badge/Pygame-376A7F?style=flat&logo=pygame&logoColor=white) |
 
-| Langage       | Logo                                         | Description                           |
-|---------------|----------------------------------------------|---------------------------------------|
-| Langage       | Logo                                             | Description                           |
-|---------------|--------------------------------------------------|---------------------------------------|
-| JavaScript    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> | Langage pour le web dynamique         |
-| Python        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>       | Polyvalent, utilisé en data et back-end |
-| TypeScript    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30"/> | JavaScript typé, plus robuste        |
-| HTML5         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/>          | Structure des pages web              |
-| CSS3          | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/>            | Mise en forme des sites web          |
-| React         | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>          | Librairie front-end JavaScript       |
-| Node.js       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30"/>        | JavaScript côté serveur              |
-| Docker        | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>        | Conteneurisation des applications    |
-
-| Langage | Logo |
-|--------|------|
-| Python | <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40"/> |
-| C      | <img src="https://skillicons.dev/icons?i=c&theme=light" width="40"/>      |
-| C++    | <img src="https://skillicons.dev/icons?i=cpp&theme=light" width="40"/>    |
-| Java   | <img src="https://skillicons.dev/icons?i=java&theme=light" width="40"/>   |
-
-Python C Java JavaScript
-Machine Learning	scikit-learn PyTorch Hugging Face MistralAI
-Back and Front Frameworks	FastAPI React
-Databases	MySQL Postgres
-CI/CD, DevOps & Cloud	Git GitHub Actions Docker Kubernetes Helm Azure
 
 
