@@ -1,17 +1,15 @@
 # 👋 About me
 
 
-I'm an **engineering student at ISAE-Supaero** in my final year. 🚀
+I'm an **engineering student at** [ISAE-Supaero](https://www.isae-supaero.fr/) in my final year. 🚀
 
-I'm currently following the **Data and Decision Sciences program**, which is a Master-level specialization in **Data Science, modern Artificial Intelligence and Decision Support**.
-The program is shared between four main modules (by order of priority): 
+I'm currently following the **Data and Decision Sciences program**, which is a Master-level specialization in **Data Science, modern Artificial Intelligence and Decision Support**:
   - Algorithms in Machine Learning (Supervised, unsupervised, deep, and reinforcement learning) 💻
   - Data Engineering (Data storage, computation, and distribution) 💾
   - Applied Data Science (Data privacy and ethics, the digital economy, and applications of data science) 📑
   - Seminars (Seminars from professional experts, training sessions, and challenges) 🏢
 ---
-In parallel, I'm also taking courses in **Energy, Transport and the Environment**, which aim to give us a **transdisciplinary vision** (combining law, economics and engineering sciences) to better understand the **relationships between technological development, energy and the environment** (climate). 
-Specifically, we explore the following points: 
+In parallel, I'm also taking courses in **Energy, Transport and the Environment**, which aim to give us a **transdisciplinary vision** (combining law, economics and engineering sciences): 
   - Energy and climate ⚡
   - Economics and ecology 📈
   - Transport and intermodality 🚌
